@@ -1,5 +1,7 @@
 <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👨‍💻 Wellcome&fontSize=90" />
+    <div align=center>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👨‍💻 Wellcome&fontSize=90" />
+    </div>
     <div align=center>
         <h1>📚 I Can Do It!</h1>
     </div>
