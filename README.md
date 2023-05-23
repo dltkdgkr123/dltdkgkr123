@@ -14,4 +14,12 @@
 <div>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgkr123" width="280" height="140" alt="Baekjoon" />
     <img src="https://github-readme-stats.vercel.app/api?username=dltkdgkr123&show_icons=true&theme=gruvbox" width="350" height="150" alt="GitHub Stats" />
+  <div key="6">
+    <a href = "https://oreuda.kr/">
+      <img
+        src=https://oreuda.kr/api/v1/plant/card?nickname=dltkdgkr123
+        alt="oreuda" />
+    </a>
+  </div>
+</div>
 </div>
