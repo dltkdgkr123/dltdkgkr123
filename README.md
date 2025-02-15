@@ -11,46 +11,52 @@
 ### 😅 with your help
 ![c](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![mybatis](https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logoColor=white)
 
+
 <div>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgkr123" width="280" height="140" alt="Baekjoon" />
     <img src="https://github-readme-stats.vercel.app/api?username=dltkdgkr123&show_icons=true&theme=gruvbox" width="350" height="150" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <table>
+
+
+## 📂 My Works
+  
+<div style="padding: 25px;">
+  <table style="background-color: #f5f5f5; padding: 20px; border-radius: 16px; box-shadow: 4px 4px 12px rgba(0,0,0,0.1); border-collapse: collapse;">
     <tr>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/싸피스타.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/싸피스타.JPG" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/페르소나.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/페르소나.JPG" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/플랜즈.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/플랜즈.JPG" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
     </tr>
     <tr>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/마이홈.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/마이홈.JPG" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/드론.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/드론.png" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/악플.jpg" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/악플.jpg" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
     </tr>
     <tr>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/강원랜드.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/강원랜드.png" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/유니런.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/유니런.png" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
-      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
-        <img src="img/닷지.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      <td style="padding: 12px; text-align: center;">
+        <img src="img/닷지.png" width="250" height="200" style="border-radius: 16px; object-fit: cover; box-shadow: 4px 4px 12px rgba(0,0,0,0.15);" />
       </td>
     </tr>
   </table>
 </div>
+
 
