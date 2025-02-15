@@ -11,51 +11,46 @@
 ### 😅 with your help
 ![c](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![mybatis](https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logoColor=white)
 
-
-<div class="image-container">
-  <div><img src="img/싸피스타.JPG" alt="Project 1" /></div>
-  <div><img src="img/페르소나.JPG" alt="Project 2" /></div>
-  <div><img src="img/플랜즈.JPG" alt="Project 3" /></div>
-  <div><img src="img/마이홈.JPG" alt="Project 4" /></div>
-  <div><img src="img/드론.png" alt="Project 5" /></div>
-  <div><img src="img/악플.jpg" alt="Project 6" /></div>
-  <div><img src="img/강원랜드.png" alt="Project 7" /></div>
-  <div><img src="img/유니런.png" alt="Project 8" /></div>
-  <div><img src="img/닷지.png" alt="Project 9" /></div>
-</div>
-
-
 <div>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgkr123" width="280" height="140" alt="Baekjoon" />
     <img src="https://github-readme-stats.vercel.app/api?username=dltkdgkr123&show_icons=true&theme=gruvbox" width="350" height="150" alt="GitHub Stats" />
-  <div key="6">
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=dltkdgkr123
-        alt="oreuda" />
-    </a>
-  </div>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/싸피스타.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/페르소나.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/플랜즈.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/마이홈.JPG" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/드론.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/악플.jpg" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/강원랜드.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/유니런.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+      <td style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; padding: 5px;">
+        <img src="img/닷지.png" width="160" height="160" style="border-radius: 8px; object-fit: cover; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<style>
-  .image-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-    margin: 0 auto;
-  }
-
-  .image-container div {
-    border: 2px solid #ddd;
-    border-radius: 8px;
-    overflow: hidden;
-  }
-
-  .image-container img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    border-radius: 8px;
-  }
-</style>
